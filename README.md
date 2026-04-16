@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Guild Meet
+
+GuildMeet is a browser-based virtual workspace where users join a 2D tavern-style room and control avatars for daily standup meetings.
 
 ## Getting Started
 
